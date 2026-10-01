@@ -1,4 +1,5 @@
 **NEXA MARKETING**
+
 Landing page desenvolvida para uma agência fictícia de marketing digital, com foco em apresentar serviços, planos e conteúdos relacionados a estratégias de marketing.
 
 📌 **SOBRE O PROJETO**
