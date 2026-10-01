@@ -1,8 +1,7 @@
-Nexa Marketing
-
+**NEXA MARKETING**
 Landing page desenvolvida para uma agência fictícia de marketing digital, com foco em apresentar serviços, planos e conteúdos relacionados a estratégias de marketing.
 
-📌 Sobre o projeto
+📌 **SOBRE O PROJETO**
 
 O Nexa Marketing é um projeto front-end desenvolvido como uma landing page institucional para uma agência de marketing.
 
@@ -10,7 +9,7 @@ O site foi criado com uma interface moderna e responsiva, apresentando informaç
 
 O projeto utiliza HTML5, CSS3 e Bootstrap 5.3.3, além de Bootstrap Icons para alguns elementos visuais.
 
-🎯 Objetivo
+🎯 **OBJETIVO**
 
 O objetivo do projeto é criar uma página profissional para apresentação de uma agência de marketing digital, facilitando a navegação do usuário e destacando os principais serviços e informações da empresa.
 
@@ -23,13 +22,13 @@ Entre os principais objetivos estão:
 * Facilitar a navegação entre as seções;
 * Criar uma experiência responsiva para diferentes dispositivos.
 
-🖥️ Demonstração
+🖥️ **DEMONSTRAÇÃO**
 
 O projeto está disponível online:
 
 Acessar o site
 
-🛠️ Tecnologias utilizadas
+🛠️ **TECNOLOGIAS UTILIZADAS**
 
 HTML5
 
@@ -74,7 +73,7 @@ Vercel
 
 Utilizado para disponibilizar o projeto na internet.
 
-📂 Estrutura do projeto
+📂 **ESTRUTURA DO PROJETO**
 
 Nexa.Site/
 │
@@ -102,7 +101,7 @@ README.md
 
 Arquivo responsável por apresentar informações sobre o projeto, suas tecnologias, estrutura e funcionamento.
 
-🧩 Estrutura da página
+🧩 **ESTRUTURA DA PÁGINA**
 
 O site está dividido nas seguintes seções:
 
@@ -168,7 +167,7 @@ Footer
 
 Contém informações da empresa, links para serviços e empresa e um campo para inscrição de e-mail.
 
-📱 Responsividade
+📱 **RESPONSIVIDADE**
 
 O projeto foi desenvolvido para funcionar em diferentes tamanhos de tela.
 
@@ -182,8 +181,7 @@ navbar-expand-lg
 
 Também foram utilizadas regras @media no arquivo style.css para adaptar elementos em telas menores.
 
-🎨 Identidade visual
-
+🎨 **IDENTIDADE VISUAL**
 A identidade visual do projeto utiliza principalmente a cor laranja como cor de destaque.
 
 A cor é aplicada em:
@@ -197,7 +195,7 @@ A cor é aplicada em:
 
 A proposta visual busca transmitir criatividade, comunicação e dinamismo, características relacionadas ao segmento de marketing.
 
-🚀 Como executar o projeto
+🚀 **COMO EXECUTAR O PROJETO**
 
 Para executar o projeto localmente:
 
@@ -208,7 +206,7 @@ Para executar o projeto localmente:
 
 Não é necessário instalar dependências adicionais para visualizar a página, pois o Bootstrap e o Bootstrap Icons são carregados através de CDN.
 
-📚 Aprendizados
+📚 **APRENDIZADOS**
 
 Durante o desenvolvimento do projeto foram praticados conceitos de:
 
@@ -224,7 +222,7 @@ Durante o desenvolvimento do projeto foram praticados conceitos de:
 * Versionamento utilizando Git e GitHub;
 * Publicação de página utilizando Vercel.
 
-🔮 Melhorias futuras
+🔮 **MELHORIAS FUTORAS**
 
 Como possíveis melhorias para o projeto, podem ser adicionadas:
 
@@ -238,7 +236,7 @@ Como possíveis melhorias para o projeto, podem ser adicionadas:
 * Integração com banco de dados;
 * Área administrativa para gerenciamento dos conteúdos.
 
-👩‍💻 Autora
+👩‍💻 **AUTORA**
 
 Letícia de Castro Soares
 
